@@ -1,0 +1,5 @@
+
+lab07-action-recognition/test_videos/
+*.mp4
+*.avi
+*.mov

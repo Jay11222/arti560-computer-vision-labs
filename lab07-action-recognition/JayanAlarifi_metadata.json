@@ -1,0 +1,16 @@
+{
+  "student": "JayanAlarifi",
+  "classes": [
+    "diving",
+    "golf_swing",
+    "horse_riding"
+  ],
+  "label_map": {
+    "diving": 0,
+    "golf_swing": 1,
+    "horse_riding": 2
+  },
+  "sequence_len": 8,
+  "img_size": 112,
+  "test_accuracy": 0.97
+}
