@@ -3,3 +3,4 @@ lab07-action-recognition/test_videos/
 *.mp4
 *.avi
 *.mov
+lab08-pose-estimation/pose/mpi/pose_iter_160000.caffemodel
