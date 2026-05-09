@@ -4,3 +4,7 @@ lab07-action-recognition/test_videos/
 *.avi
 *.mov
 lab08-pose-estimation/pose/mpi/pose_iter_160000.caffemodel
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+torchhub/
